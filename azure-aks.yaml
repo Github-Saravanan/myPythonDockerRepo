@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: sampleappln.azurecr.io/github-saravanan/mypythondockerrepo:20
+        image: sampleappln.azurecr.io/github-saravanan/mypythondockerrepo:22
         ports:
         - containerPort: 5000
 # service type loadbalancer       
